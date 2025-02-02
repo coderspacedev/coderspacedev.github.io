@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.feelsoon",
+      "sha256_cert_fingerprints": [
+        "FC:A6:40:10:38:8B:A4:54:AE:80:B9:39:98:3D:7B:7B:82:C7:0F:41:8C:CF:23:75:5F:67:E4:13:90:B0:C3:1B"
+      ]
+    }
+  }
+]
